@@ -6,6 +6,6 @@ resources:
 - deployment.yaml
 
 images:
-- name: zalerix/continuous-delivery-example:latest
-  newName: zalerix/continuous-delivery-example
+- name: docker.io/gfsekamanya/continuous-delivery-example:latest
+  newName: docker.io/gfsekamanya/continuous-delivery-example
   newTag: 1.2.0
